@@ -17,7 +17,7 @@ local Games = {
     [142823291] = { -- Murder Mystery 2
         Name = "Murder Mystery 2",
         -- Сюда вставь ссылку на raw-файл из GitHub (или LuaProtect CDN)
-        Url = "https://raw.githubusercontent.com/ТВОЙ_НИК/FrostyHub-Modules/main/mm2/main.luau"
+        Url = "https://raw.githubusercontent.com/vanavanek88-hash/frosty-hub-1.2/refs/heads/main/mm2/main.luau"
     },
     -- Сюда потом добавишь BSS, Blox Fruits и т.д.
     -- [1537690962] = { Name = "Bee Swarm Simulator", Url = "..." },
